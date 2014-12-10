@@ -3,7 +3,7 @@ Wiz-Markdown-Catalog-Tree
 ![image](https://raw.githubusercontent.com/webpatch/Wiz-Markdown-Catalog-Tree/master/screen-shot.jpg)
 
 ##说明
-根据Markdown文件标题，自动在侧边生成目录树，可收缩/扩展。
+根据Markdown文件的标题结构，自动在侧边生成目录树，可手动收缩与扩展目录。
 
 ##用法
 ### 自动安装
